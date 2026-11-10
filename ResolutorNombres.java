@@ -16,6 +16,12 @@ public class ResolutorNombres {
 
             System.out.println(e.getMessage());
         }
+
+        Scanner teclado = new Scanner(System.in);
+
+        while (true){
+            
+        }
     }
 }
 
